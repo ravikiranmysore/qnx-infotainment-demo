@@ -1,0 +1,24 @@
+# Qt build output
+build/
+*.pro.user
+*.pro.user.*
+
+# Object files
+*.o
+*.obj
+
+# Compiled output
+*.exe
+*.dll
+*.so
+*.a
+
+# Qt generated
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+
+# IDE
+.qtcreator/
+CMakeLists.txt.user

@@ -1,0 +1,4 @@
+module components
+GaugeArc 1.0 GaugeArc.qml
+TempControl 1.0 TempControl.qml
+FanButton 1.0 FanButton.qml

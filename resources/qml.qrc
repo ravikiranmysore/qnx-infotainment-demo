@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="qml/Main.qml">../qml/Main.qml</file>
+        <file alias="qml/ClusterView.qml">../qml/ClusterView.qml</file>
+        <file alias="qml/ClimateView.qml">../qml/ClimateView.qml</file>
+        <file alias="qml/MediaView.qml">../qml/MediaView.qml</file>
+        <file alias="qml/NavBar.qml">../qml/NavBar.qml</file>
+        <file alias="qml/components/qmldir">../qml/components/qmldir</file>
+        <file alias="qml/components/GaugeArc.qml">../qml/components/GaugeArc.qml</file>
+        <file alias="qml/components/FanButton.qml">../qml/components/FanButton.qml</file>
+        <file alias="qml/components/TempControl.qml">../qml/components/TempControl.qml</file>
+    </qresource>
+</RCC>
