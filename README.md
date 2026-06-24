@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # QNX CAR Platform Infotainment Demo
 
 A cross-platform automotive HMI application built with **Qt 6 / QML**, targeting the **QNX CAR 2.1 platform** (QNX Neutrino RTOS). Runs on Windows desktop for simulation and cross-compiles to QNX Neutrino via QNX SDP 8.0.
