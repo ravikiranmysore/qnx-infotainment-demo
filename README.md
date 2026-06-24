@@ -116,4 +116,9 @@ BMW · Daimler · VW Group platforms
 =======
 # qnx-infotainment-demo
 Qt6/QML infotainment HMI demo targeting QNX CAR 2.1 platform - Cluster, Media, Climate screens with C++ backend
->>>>>>> f9f04d8bf449237431fdb6c1806f44044738ffa0
+
+## Screenshots
+
+| Cluster | Media | Climate |
+|---------|-------|---------|
+| ![Cluster](screenshots/cluster.png) | ![Media](screenshots/media.png) | ![Climate](screenshots/climate.png) |
